@@ -1,0 +1,97 @@
+Timestamp: Sat Apr  6 10:38:30 2019
+Database: DB/DB_connect.txt
+Transaction Count: 67557
+Item Count: 129
+Threshold Ratio: 0.28
+Ant Population: 15
+Max Generations: 3000
+Initial Pheromone Density: 1
+Pseudo-Random Proportional Rule Parameter: 0.88
+Pheromone Updating Parameter: 0.05
+
+Processing Ant Colony System Algorithm...
+Iteration:	100 / 3000		 NUM of HUIs:	0
+Iteration:	200 / 3000		 NUM of HUIs:	0
+Iteration:	300 / 3000		 NUM of HUIs:	2
+Iteration:	400 / 3000		 NUM of HUIs:	3
+Iteration:	500 / 3000		 NUM of HUIs:	4
+Iteration:	600 / 3000		 NUM of HUIs:	4
+Iteration:	700 / 3000		 NUM of HUIs:	8
+Iteration:	800 / 3000		 NUM of HUIs:	8
+Iteration:	900 / 3000		 NUM of HUIs:	8
+Iteration:	1000 / 3000		 NUM of HUIs:	10
+Iteration:	1100 / 3000		 NUM of HUIs:	10
+Iteration:	1200 / 3000		 NUM of HUIs:	10
+Iteration:	1300 / 3000		 NUM of HUIs:	14
+Iteration:	1400 / 3000		 NUM of HUIs:	14
+Iteration:	1500 / 3000		 NUM of HUIs:	14
+Iteration:	1600 / 3000		 NUM of HUIs:	15
+Iteration:	1700 / 3000		 NUM of HUIs:	15
+Iteration:	1800 / 3000		 NUM of HUIs:	15
+Iteration:	1900 / 3000		 NUM of HUIs:	15
+Iteration:	2000 / 3000		 NUM of HUIs:	16
+Iteration:	2100 / 3000		 NUM of HUIs:	16
+Iteration:	2200 / 3000		 NUM of HUIs:	16
+Iteration:	2300 / 3000		 NUM of HUIs:	16
+Iteration:	2400 / 3000		 NUM of HUIs:	16
+Iteration:	2500 / 3000		 NUM of HUIs:	16
+Iteration:	2600 / 3000		 NUM of HUIs:	16
+Iteration:	2700 / 3000		 NUM of HUIs:	16
+Iteration:	2800 / 3000		 NUM of HUIs:	16
+Iteration:	2900 / 3000		 NUM of HUIs:	22
+Iteration:	3000 / 3000		 NUM of HUIs:	24
+
+Algorithm terminated on maximum generation
+Time elapsed: 10231 seconds 
+
+24 High-Utility Itemsets discovered
+Last HUI found on generation: 2905
+
+[ 16 19 37 55 75 85 88 91 109 124 127 ]
+Utility: 299233694
+[ 16 19 37 55 75 85 88 91 106 109 124 127 ]
+Utility: 303279758
+[ 16 19 37 55 72 75 85 88 91 106 109 124 127 ]
+Utility: 300414902
+[ 16 19 34 37 55 75 85 88 91 109 124 127 ]
+Utility: 302420927
+[ 16 19 34 37 55 85 88 91 106 109 124 127 ]
+Utility: 300349636
+[ 16 19 34 37 55 75 85 88 91 106 109 124 127 ]
+Utility: 306105406
+[ 16 19 34 37 55 72 75 85 88 91 109 124 127 ]
+Utility: 299384517
+[ 16 19 34 37 55 72 75 85 88 91 106 109 124 127 ]
+Utility: 302890366
+[ 16 19 37 52 55 75 85 88 91 106 109 124 127 ]
+Utility: 300816154
+[ 16 19 37 52 55 72 75 85 88 91 106 109 124 127 ]
+Utility: 297697222
+[ 16 19 34 37 52 55 75 85 88 91 109 124 127 ]
+Utility: 299650537
+[ 16 19 34 37 52 55 85 88 91 106 109 124 127 ]
+Utility: 297548045
+[ 16 19 34 37 52 55 75 85 88 91 106 109 124 127 ]
+Utility: 303025080
+[ 16 19 34 37 52 55 72 75 85 88 91 106 109 124 127 ]
+Utility: 299555964
+[ 16 19 37 55 75 85 88 91 103 106 109 124 127 ]
+Utility: 298282207
+[ 16 19 34 37 55 75 85 88 91 103 106 109 124 127 ]
+Utility: 300542496
+[ 16 19 37 55 85 88 91 109 121 124 127 ]
+Utility: 300399473
+[ 16 19 37 55 75 85 88 91 109 121 124 127 ]
+Utility: 306176057
+[ 16 19 55 75 85 88 91 106 109 121 124 127 ]
+Utility: 297270856
+[ 16 19 37 55 85 88 91 106 109 121 124 127 ]
+Utility: 304053859
+[ 16 19 37 55 75 85 88 91 106 109 121 124 127 ]
+Utility: 309712095
+[ 16 19 37 55 72 75 85 88 91 109 121 124 127 ]
+Utility: 302977479
+[ 16 19 37 55 72 85 88 91 106 109 121 124 127 ]
+Utility: 299197197
+[ 16 19 37 55 72 75 85 88 91 106 109 121 124 127 ]
+Utility: 306334887

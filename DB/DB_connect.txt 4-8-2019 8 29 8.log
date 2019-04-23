@@ -1,0 +1,51 @@
+Timestamp: Mon Apr  8 08:29:07 2019
+Database: DB/DB_connect.txt
+Transaction Count: 67557
+Item Count: 129
+Threshold Ratio: 0.29
+Ant Population: 15
+Max Generations: 3000
+Initial Pheromone Density: 1
+Pseudo-Random Proportional Rule Parameter: 0.88
+Pheromone Updating Parameter: 0.05
+
+Processing Ant Colony System Algorithm...
+Iteration:	100 / 3000		 NUM of HUIs:	0
+Iteration:	200 / 3000		 NUM of HUIs:	0
+Iteration:	300 / 3000		 NUM of HUIs:	0
+Iteration:	400 / 3000		 NUM of HUIs:	0
+Iteration:	500 / 3000		 NUM of HUIs:	0
+Iteration:	600 / 3000		 NUM of HUIs:	0
+Iteration:	700 / 3000		 NUM of HUIs:	0
+Iteration:	800 / 3000		 NUM of HUIs:	0
+Iteration:	900 / 3000		 NUM of HUIs:	0
+Iteration:	1000 / 3000		 NUM of HUIs:	0
+Iteration:	1100 / 3000		 NUM of HUIs:	0
+Iteration:	1200 / 3000		 NUM of HUIs:	0
+Iteration:	1300 / 3000		 NUM of HUIs:	0
+Iteration:	1400 / 3000		 NUM of HUIs:	0
+Iteration:	1500 / 3000		 NUM of HUIs:	0
+Iteration:	1600 / 3000		 NUM of HUIs:	0
+Iteration:	1700 / 3000		 NUM of HUIs:	0
+Iteration:	1800 / 3000		 NUM of HUIs:	0
+Iteration:	1900 / 3000		 NUM of HUIs:	0
+Iteration:	2000 / 3000		 NUM of HUIs:	0
+Iteration:	2100 / 3000		 NUM of HUIs:	0
+Iteration:	2200 / 3000		 NUM of HUIs:	0
+Iteration:	2300 / 3000		 NUM of HUIs:	0
+Iteration:	2400 / 3000		 NUM of HUIs:	0
+Iteration:	2500 / 3000		 NUM of HUIs:	0
+Iteration:	2600 / 3000		 NUM of HUIs:	0
+Iteration:	2700 / 3000		 NUM of HUIs:	0
+Iteration:	2800 / 3000		 NUM of HUIs:	0
+Iteration:	2900 / 3000		 NUM of HUIs:	1
+Iteration:	3000 / 3000		 NUM of HUIs:	1
+
+Algorithm terminated on maximum generation
+Time elapsed: 10381 seconds 
+
+1 High-Utility Itemsets discovered
+Last HUI found on generation: 2821
+
+[ 16 19 37 55 75 85 88 91 106 109 121 124 127 ]
+Utility: 309712095
