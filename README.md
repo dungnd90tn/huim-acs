@@ -1,2 +1,2 @@
 # HUIMACS
-make BUILD=release
+bash run_All.sh
